@@ -1,2 +1,2 @@
 # yash-projs
-this is my first github repository
+this is my first Github repository
